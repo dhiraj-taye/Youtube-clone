@@ -4,7 +4,7 @@ A modern YouTube clone application built with React JS and Material UI 5. This p
 
 ## Demo
 
-[Live Demo}(https://youtube-clone-dt.netlify.app/)
+[Live Demo](https://youtube-clone-dt.netlify.app/)
 
 ## Features
 
